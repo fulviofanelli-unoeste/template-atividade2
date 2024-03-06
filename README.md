@@ -9,7 +9,9 @@ let dados = await = response.json();
 
 ## Qual API vamos consumir?
 Para nossa atividade vamos utilizar a API que disponibiliza os dados da FIPE, a documentação pode ser encontrada abaixo: </br>
-https://documenter.getpostman.com/view/7064033/SWT5jMGk#0efe83b5-d24c-40f9-b85d-d83426953a5f
+https://documenter.getpostman.com/view/7064033/SWT5jMGk#0efe83b5-d24c-40f9-b85d-d83426953a5f</br>
+
+Implemente as consultas à API da tabela FIPE na camada de modelos
 
 ## Endpoints a serem implementados
 
