@@ -14,7 +14,8 @@ https://documenter.getpostman.com/view/7064033/SWT5jMGk#0efe83b5-d24c-40f9-b85d-
 
 Como todos as consultas serão baseadas nessa API, sugiro que vocês façam a implementação de uma classe Adapter. Esse padrão é frequentemente utilizado quando precisamos fazer com que uma aplicação comunique-se com outra.<br>
 Dentro dessa classe Adapter vocês podem ter as propriedades e métodos que serão utilizados por quem quiser se comunicar com a API da tabela FIPE.<br>
-Veja um exemplo clicando neste link [a link] (https://gasparbarancelli.com/post/entendendo-o-padrao-de-projeto-adapter-em-java)
+Veja um exemplo clicando no link abaixo:<br> 
+(https://gasparbarancelli.com/post/entendendo-o-padrao-de-projeto-adapter-em-java)
 
 
 ## Endpoints a serem implementados
