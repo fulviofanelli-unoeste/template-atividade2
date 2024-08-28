@@ -29,5 +29,5 @@ Todos esses endpoints deverão estar devidamente documentados em uma rota do sis
 - Tag </br>
 - Sumário </br>
 - Parâmetros </br>
-- Códigos de retorno </br></br>
+- Códigos de retorno </br>
 - Autenticação</br>
