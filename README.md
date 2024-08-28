@@ -4,8 +4,8 @@ Nessa atividade iremos implementar uma API RESTful que consome uma outra API
 
 ## Consumindo uma API
 Através do Node podemos consumir uma API utilizando a função fetch e a keyword await. Conforme vimos durante a disciplina de fullstack I, a função fetch funciona no formato de Promises, então podemos utilizar async/await para aguardar a response e com ela realizar um response.json() para obter o corpo da resposta. Exemplo:</br>
-let response = await fetch('endereco-api-a-ser-consumida');
-let dados = await = response.json();
+let response = await fetch('endereco-api-a-ser-consumida');</br>
+let dados = await response.json();
 
 ## Qual API vamos consumir?
 Para nossa atividade vamos utilizar a API que disponibiliza os dados da FIPE, a documentação pode ser encontrada abaixo: </br>
